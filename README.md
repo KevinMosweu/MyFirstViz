@@ -19,7 +19,7 @@ From the bar graph on the left we can see that docked bikes are considerably the
 
 Looking at the graphs on the top right, we see that on average people travel shorter distances on docked bikes while the graph on the bottom right shows these trips on average take a significantly greater length of time than with other bike types. 
 
-The docked bikes are result in poor time efficiency and these likely explains their lack of use.
+The docked bikes result in poor time efficiency and this likely explains their lack of use.
 
 ## Analysis of Map of Start Stations
 
